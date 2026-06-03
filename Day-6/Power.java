@@ -12,7 +12,7 @@ public class Power {
         {
            p*=x;
         }
-        System.out.println(x+" raise to the power "+a+"="+p);
+        System.out.println(x+" raise to the power "+a+"= "+p);
         in.close();
     }
 }
